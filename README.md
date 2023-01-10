@@ -1,3 +1,13 @@
+<h2>Base Project 2</h2>
+Member: 
+<ol>
+    <li> LE MINH THE </li>
+    <li> TRUONG BA VUONG</li>
+ </ol>
+<p>Class: 21GIT</p>
+<p>Instructor: Ph.D Nguyen Duc Hien</p>
+<p>VKU</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
